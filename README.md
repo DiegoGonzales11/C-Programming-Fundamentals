@@ -2,7 +2,9 @@
 
 ## Welcome
 
-Here you will found my files solutions of the course **C for everyone: Programming Fundamentals** this is a popular course **University of Califormia, Santa Cruz**, It's available on [COURSERA](https://www.coursera.org/learn/c-for-everyone/home/welcome)
+Here you will found my files solutions of the course **C for everyone: Programming Fundamentals** this is a popular course **University of Califormia, Santa Cruz**, It's available on [COURSERA](https://www.coursera.org/learn/c-for-everyone/home/welcome).
+
+I hope you will enjoy it.
 
 ## Content
 
@@ -16,7 +18,7 @@ The folders available are:
 
 ## Author
 
-Pool Diego Gonzales Loaza
+Gonzales Loayza Pool Diego
 
 ## Date
 

@@ -15,9 +15,17 @@ The folders available are:
     - Assignment 1
     - Assignment 2
 - Week 2
+    - Excercises
+    - Assignment 1
+    - Assignment 2
 - Week 3
+    - Excercises
+    - Assignment 1
+    - Assignment 2
 - Week 4
+    - Excercises
 - Week 5
+- Week 6
 
 ## Author
 

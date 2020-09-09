@@ -25,7 +25,9 @@ The folders available are:
 - Week 4
     - Excercises
 - Week 5
-- Week 6
+    - Excercises
+    - Assignment 
+    - Extra files
 
 ## Author
 

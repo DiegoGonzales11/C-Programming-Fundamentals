@@ -1,0 +1,6 @@
+Nombre  Puntaje
+Diego   6
+Anette  9
+Conny   10
+Ramon   7
+Axel    9

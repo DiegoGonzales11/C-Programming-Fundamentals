@@ -1,0 +1,8 @@
+print("hello")
+myFile = open("elephant_seal_data.txt","r")
+str_file = myFile.read()
+print(type(str_file))
+num_file = str_file.split()
+print(num_file[:6])
+print(len(num_file))
+myFile.close()

@@ -1,4 +1,3 @@
-print("hello")
 myFile = open("elephant_seal_data.txt","r")
 str_file = myFile.read()
 print(type(str_file))

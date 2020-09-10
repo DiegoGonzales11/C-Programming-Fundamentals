@@ -2,7 +2,7 @@
 
 ## Welcome
 
-Here you will found the excercises and my solutions of the assignments. This is about the course **C for everyone: Programming Fundamentals** this is a popular course **University of Califormia, Santa Cruz**, It's available on [COURSERA](https://www.coursera.org/learn/c-for-everyone/home/welcome).
+Here you will found the excercises and my solutions of the assignments. This is about the course **C for everyone: Programming Fundamentals** this is a popular course at the **University of Califormia, Santa Cruz**, It's available on [COURSERA](https://www.coursera.org/learn/c-for-everyone/home/welcome).
 
 I hope you will enjoy it.
 
